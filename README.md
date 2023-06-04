@@ -19,9 +19,10 @@ To write a program to find the LU Decomposition of a matrix.
 4. End the program
 
 ## Program:
-(i) To find the L and U matrix
-/*
-Program to find L and U matrix using LU decomposition.
+# (i) To find the L and U matrix
+
+
+# Program to find L and U matrix using LU decomposition.
 
 Developed by: KANCHARLA NARMADHA
 
@@ -35,9 +36,9 @@ P,L,U=lu(arr)
 print(L)
 print(U)
 ```
-(ii) To find the LU Decomposition of a matrix
+# (ii) To find the LU Decomposition of a matrix
 
-Program to find the LU Decomposition of a matrix.
+# Program to find the LU Decomposition of a matrix.
 
 Developed by: KANCHARLA NARMADHA
 
